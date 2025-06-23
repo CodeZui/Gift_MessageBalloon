@@ -20,8 +20,6 @@ const bgMusic = document.getElementById('bgMusic');
   "Tôi nghèo quá, cho xin 50K đi 🤑",
   "Ụa alo, thân chưa mà đập bóng của tụi 🤔",
   "vui vậy thôi chứ bố dặn con này 🧔‍♂️",
-  "Nín !!! 🤫",
-  "Cút !!! 😤😏",
   "Ngon xinh yêu của tôi đâu rồi 😘",
   "Tôi gia trưởng mới lo được cho cậu nhá 😏💸",
   "Đập mạnh lên😡...Ai sợ thì đi về💀",
@@ -34,32 +32,30 @@ const bgMusic = document.getElementById('bgMusic');
   "Nhìn bạn có nét ghê, nét đẹp trời đánh 😝",
   "Anh nhắc em nha 😏",
   "Nhìn bạn cưng quá, cưng dô lây 😝",
-  "Phiên chợ đông em cầm nhầm bịch ớt. Làm thơ chớt quớt mà đòi học theo người ta 🤣",
   "Hên lắm mới xui được như vậy á 😌",
   "Vẻ bề ngoài quan tọng đến thế sao 🤨😭",
   "Bất ngờ chưa bà già 🤣",
-  "Đồ ngu, đồ ăn hại, cút mẹ mày đi 😏😏😏",
-  "<img src='https://i.pinimg.com/originals/6b/1e/b7/6b1eb75915c0359234e21b6557120279.gif' width='130' />",
-  "<img src='https://i.pinimg.com/originals/38/83/8d/38838d2369fe10f9e3f03e92bde4883c.gif' width='130' />",
-  "<img src='https://i.pinimg.com/originals/2e/3c/43/2e3c439e7b58c00d9e787341dbb28c94.gif' width='130' />",
-  "<img src='https://i.pinimg.com/originals/10/13/ed/1013ed0057e43990f95d8aa4226fd79f.gif' width='130' />",
-  "<img src='https://i.pinimg.com/originals/28/b2/7a/28b27a8cbe44c6ab00c2b3e43fd72e72.gif' width='130' />",
-  "<img src='https://i.pinimg.com/originals/da/e5/01/dae501c90db93a4e09b6f015f3c5c68c.gif' width='130' />",
-  "<img src='https://i.pinimg.com/originals/bc/33/f3/bc33f3bc72f43ca1045b7c4f98dc760d.gif' width='130' />",
-  "<img src='https://i.pinimg.com/originals/df/d5/4a/dfd54ac370b9b2902a59a464d9e4d345.gif' width='130' />",
-  "<img src='https://i.pinimg.com/originals/c5/f6/3d/c5f63dee088c913fae151a27e5c30cdc.gif' width='130' />",
-  "<img src='https://i.pinimg.com/originals/40/cc/30/40cc3065c2659744c81210dbb3882a61.gif' width='130' />",
-  "<img src='https://i.pinimg.com/originals/40/8d/fd/408dfd158ce15ab75ffa57faa2873939.gif' width='130' />",
-  "<img src='https://i.pinimg.com/originals/a2/9b/81/a29b813b2395ebe6b734489a308735c1.gif' width='130' />",
-  "<img src='https://i.pinimg.com/originals/b2/23/e6/b223e62ba4d787bcc53b79a85508b77e.gif' width='130' />",
-  "<img src='https://i.pinimg.com/originals/db/d7/f4/dbd7f458b77f7f1a7ad712dbaf9c4a4f.gif' width='130' />",
-  "<img src='https://i.pinimg.com/originals/29/37/17/293717f5964be70b72d7781b0847c62b.gif' width='130' />",
-  "<img src='https://i.pinimg.com/originals/38/7a/93/387a93b81b36b7563ec0425d57ef78e1.gif' width='130' />",
-  "<img src='https://i.pinimg.com/originals/5b/1c/f1/5b1cf1a355c71dfbef79bff030db005c.gif' width='130' />",
-  "<img src='https://i.pinimg.com/originals/a6/62/2d/a6622dfaee5d281cf341d264fa2b3aa2.gif' width='130' />",
-  "<img src='https://i.pinimg.com/originals/79/fd/49/79fd49f5ea1d4580f44465bac138820a.gif' width='130' />",
-  "<img src='https://i.pinimg.com/originals/eb/db/36/ebdb3635843244ec609786583ddf6863.gif' width='130' />",
-  "<img src='https://i.pinimg.com/originals/16/10/ad/1610adbfb7deba9bd65ae35b4eeb960b.gif' width='130' />"
+  "<img src='https://i.pinimg.com/originals/6b/1e/b7/6b1eb75915c0359234e21b6557120279.gif' width='100' />",
+  "<img src='https://i.pinimg.com/originals/38/83/8d/38838d2369fe10f9e3f03e92bde4883c.gif' width='100' />",
+  "<img src='https://i.pinimg.com/originals/2e/3c/43/2e3c439e7b58c00d9e787341dbb28c94.gif' width='100' />",
+  "<img src='https://i.pinimg.com/originals/10/13/ed/1013ed0057e43990f95d8aa4226fd79f.gif' width='100' />",
+  "<img src='https://i.pinimg.com/originals/28/b2/7a/28b27a8cbe44c6ab00c2b3e43fd72e72.gif' width='100' />",
+  "<img src='https://i.pinimg.com/originals/da/e5/01/dae501c90db93a4e09b6f015f3c5c68c.gif' width='100' />",
+  "<img src='https://i.pinimg.com/originals/bc/33/f3/bc33f3bc72f43ca1045b7c4f98dc760d.gif' width='100' />",
+  "<img src='https://i.pinimg.com/originals/df/d5/4a/dfd54ac370b9b2902a59a464d9e4d345.gif' width='100' />",
+  "<img src='https://i.pinimg.com/originals/c5/f6/3d/c5f63dee088c913fae151a27e5c30cdc.gif' width='100' />",
+  "<img src='https://i.pinimg.com/originals/40/cc/30/40cc3065c2659744c81210dbb3882a61.gif' width='100' />",
+  "<img src='https://i.pinimg.com/originals/40/8d/fd/408dfd158ce15ab75ffa57faa2873939.gif' width='100' />",
+  "<img src='https://i.pinimg.com/originals/a2/9b/81/a29b813b2395ebe6b734489a308735c1.gif' width='100' />",
+  "<img src='https://i.pinimg.com/originals/b2/23/e6/b223e62ba4d787bcc53b79a85508b77e.gif' width='100' />",
+  "<img src='https://i.pinimg.com/originals/db/d7/f4/dbd7f458b77f7f1a7ad712dbaf9c4a4f.gif' width='100' />",
+  "<img src='https://i.pinimg.com/originals/29/37/17/293717f5964be70b72d7781b0847c62b.gif' width='100' />",
+  "<img src='https://i.pinimg.com/originals/38/7a/93/387a93b81b36b7563ec0425d57ef78e1.gif' width='100' />",
+  "<img src='https://i.pinimg.com/originals/5b/1c/f1/5b1cf1a355c71dfbef79bff030db005c.gif' width='100' />",
+  "<img src='https://i.pinimg.com/originals/a6/62/2d/a6622dfaee5d281cf341d264fa2b3aa2.gif' width='100' />",
+  "<img src='https://i.pinimg.com/originals/79/fd/49/79fd49f5ea1d4580f44465bac138820a.gif' width='100' />",
+  "<img src='https://i.pinimg.com/originals/eb/db/36/ebdb3635843244ec609786583ddf6863.gif' width='100' />",
+  "<img src='https://i.pinimg.com/originals/16/10/ad/1610adbfb7deba9bd65ae35b4eeb960b.gif' width='100' />"
 ];
 
 
@@ -113,7 +109,7 @@ const bgMusic = document.getElementById('bgMusic');
       this.element.addEventListener('click', () => {
         if (!this.clicked) {
           if (!firstBubblePopped) {
-            bgMusic.play().catch(() => {});  // Play nhạc, bỏ qua lỗi nếu bị browser block
+            bgMusic.play().catch(() => {});  
             firstBubblePopped = true;
           }
           this.clicked = true;
